@@ -1,0 +1,8 @@
+cf:
+   apiHost: "api.run.pivotal.io"
+   username: "user-name"
+   password: "password"
+   organization: "org-name"
+   space: "space-name"
+logging.level.root: debug   # This is optional but will hopefully explain deeper what is happening
+
